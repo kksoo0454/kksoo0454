@@ -56,5 +56,3 @@
 [instagram]: https://www.youtube.com/watch?v=64J_L24nSQQ  
 
 <br><br><br><br><br><br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=febseo&show_icons=true&locale=en" alt="febseo" />
