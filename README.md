@@ -34,7 +34,7 @@
 
 ### 🏅 Stats
 <div style="text-align: left;">
-  <div style="text-align: left;">
+  <div style="text-align: left;"> https://camo.githubusercontent.com/c88b828ad49023f52449f73c1ffcf4a853f7fe5d1b68f8774e96baa769a17799/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f73746174733f757365726e616d653d726e72676c6c267468656d653d676974687562
     <img src="https://github-readme-stats.vercel.app/api?username=kksoo0454&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"/> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JungHyun&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"/> 
   </div> 
