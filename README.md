@@ -1,5 +1,4 @@
-<h1>Hi 👋, I'm JH</h1>
-<br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FDF5AA,100:4A9782&height=250&section=header&text=Welcome%20to%20Junghyun's%20GitHub!&fontColor=333333&fontSize=40)
 
 ### 🙋 I'm JungHyun, Fullstack developer. 
 🔅 다양한 기술 습득으로 끊임없는 성장을 꿈꾸는 개발자 JH입니다. <br>
