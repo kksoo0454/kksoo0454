@@ -32,6 +32,17 @@
 
 <br>
 
+### 🏅 Stats
+<div style="text-align: left;">
+  <div style="text-align: left;">
+    <img src="https://github-readme-stats.vercel.app/api?username=JungHyun&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JungHyun&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"/> 
+  </div> 
+</div>
+
+<br>
+    
+
 ### ⛺ Experiences
 <p>NCS [스마트웹&콘텐츠개발] 풀스택 자바웹개발자</p>
 
