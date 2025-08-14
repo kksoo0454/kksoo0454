@@ -35,7 +35,7 @@
 ### 🏅 Stats
 <div style="text-align: left;">
   <div style="text-align: left;">
-    <img src="https://github-readme-stats.vercel.app/api?username=JungHyun&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"/> 
+    <img src="https://github-readme-stats.vercel.app/api?username=kksoo0454&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"/> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JungHyun&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"/> 
   </div> 
 </div>
